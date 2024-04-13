@@ -2,7 +2,7 @@
 ⚡ Hey there, I am a Mechanical Engineer Working as a Data Analyst.
 ⚡I am from 🌊🌴Mangalore🌴🌊 DK.
 ⚡Interested in ⚽🏎️🏍️🍛
-⚡Currently Learning Web Development.
+⚡Currently Learning No Idea
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chirag.bangera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-bangera-829723205) 
